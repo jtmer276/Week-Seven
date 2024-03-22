@@ -41,7 +41,7 @@ public class Grades{
         System.out.println("You've received a " + letter_grade) ;
         System.out.println(message);
         
-        
+        input.close();        
 
         }
 
