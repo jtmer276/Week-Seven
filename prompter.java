@@ -24,6 +24,7 @@ public class prompter{
             System.out.print("Enter a number withing the range entered: ");
             num = input.nextInt();
         }
-
+        
+        input.close();
     }
 }
