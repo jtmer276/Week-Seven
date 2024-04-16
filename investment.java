@@ -6,7 +6,7 @@ Project: Investment
 *********/
 import java.text.NumberFormat;
 
-public class investment{
+public class Investment{
     public static void main(String[] args){
         double initial_value = 2500.00;
         double final_value = 5000.00;
